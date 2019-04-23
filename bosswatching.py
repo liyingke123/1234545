@@ -47,7 +47,7 @@ while True:
     # Hit 'q' on the keyboard to quit!
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-
+#222222222222222222222222222222222222222222222222222222
 # Release handle to the webcam
 video_capture.release()
 cv2.destroyAllWindows()
